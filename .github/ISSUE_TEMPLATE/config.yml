@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Read the Privacy Policy
+    url: https://magos-0815.github.io/stonebot-privacy-policy/
+    about: Review what Stonebot may process and how it is used.
+  - name: Read the Data Deletion Instructions
+    url: https://magos-0815.github.io/stonebot-privacy-policy/data-deletion/
+    about: Follow the safe request process before opening a ticket.

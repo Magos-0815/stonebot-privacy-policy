@@ -1,0 +1,37 @@
+name: Privacy request
+description: Start a privacy or data-deletion request without publishing personal information.
+title: "Privacy request"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This issue is public. Do not include phone numbers, message content, account identifiers, credentials, access tokens, identity documents, or other personal information. The project operator will use this ticket only to arrange an appropriate private contact channel.
+  - type: dropdown
+    id: request_type
+    attributes:
+      label: Request type
+      options:
+        - Data deletion
+        - Access or correction
+        - Privacy question
+        - Request a private contact channel
+    validations:
+      required: true
+  - type: dropdown
+    id: deployment
+    attributes:
+      label: Which deployment holds the data?
+      description: Do not identify an account or person here.
+      options:
+        - The Stonebot deployment connected to this policy site
+        - A third-party Stonebot deployment
+        - I am not sure
+    validations:
+      required: true
+  - type: checkboxes
+    id: safety
+    attributes:
+      label: Public-ticket safety
+      options:
+        - label: I have not included personal, confidential, or authentication information in this public ticket.
+          required: true

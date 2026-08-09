@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magos-0815.github.io/stonebot-privacy-policy/sitemap.xml
