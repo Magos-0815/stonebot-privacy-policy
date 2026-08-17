@@ -23,8 +23,8 @@ body:
       label: Which deployment holds the data?
       description: Do not identify an account or person here.
       options:
-        - The Stonebot deployment connected to this policy site
-        - A third-party Stonebot deployment
+        - The RossoBot deployment connected to this policy site
+        - A third-party RossoBot deployment
         - I am not sure
     validations:
       required: true
