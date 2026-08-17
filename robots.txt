@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://magos-0815.github.io/stonebot-privacy-policy/sitemap.xml
+Sitemap: https://magos-0815.github.io/RossoBot-privacy-policy/sitemap.xml

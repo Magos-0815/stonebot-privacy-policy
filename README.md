@@ -1,8 +1,8 @@
-# Stonebot public policy site
+# RossoBot public policy site
 
 This repository contains the public Privacy Policy, Data Deletion Instructions,
-and Terms of Use for Stonebot and its WhatsApp integration. It intentionally
-contains no Stonebot source code, credentials, phone numbers, or message data.
+and Terms of Use for RossoBot and its WhatsApp integration. It intentionally
+contains no RossoBot source code, credentials, phone numbers, or message data.
 
 ## Meta App Dashboard values
 
@@ -10,9 +10,9 @@ Copy these exact public HTTPS URLs into the Meta App Dashboard:
 
 | Meta field | URL |
 | --- | --- |
-| Privacy Policy URL | `https://magos-0815.github.io/stonebot-privacy-policy/` |
-| User Data Deletion URL | `https://magos-0815.github.io/stonebot-privacy-policy/data-deletion/` |
-| Terms of Service URL | `https://magos-0815.github.io/stonebot-privacy-policy/terms/` |
+| Privacy Policy URL | `https://magos-0815.github.io/RossoBot-privacy-policy/` |
+| User Data Deletion URL | `https://magos-0815.github.io/RossoBot-privacy-policy/data-deletion/` |
+| Terms of Service URL | `https://magos-0815.github.io/RossoBot-privacy-policy/terms/` |
 
 If Meta asks for an App Domain, use `magos-0815.github.io`.
 
@@ -33,5 +33,5 @@ HTML and CSS and does not require a build step.
 ## Updating the operator details
 
 The current policy identifies the public project operator by GitHub account and
-does not claim that Stonebot is operated by a registered company. If ownership
+does not claim that RossoBot is operated by a registered company. If ownership
 changes, update the operator and contact sections before publishing the change.
